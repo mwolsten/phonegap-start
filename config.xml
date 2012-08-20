@@ -22,3 +22,4 @@
 
 	<preference name="orientation" value="portrait" />
 </widget>
+git push -u origin master
